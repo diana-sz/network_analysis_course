@@ -1,4 +1,4 @@
-Jupyter notebooks for network analysis in python using the package networkx
+This repository contains jupyter notebooks with exercises for the course 'Network analysis in python'.
   
 To run the notebooks using Binder, click the button below
 
